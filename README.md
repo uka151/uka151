@@ -80,7 +80,7 @@ infrastructure & application perspective.
  <h2>Get in touch </h2>
   <summary>Contact: 📞</summary>
   <ul>
-  <li>Email Id- <a href="mailto: thecodebugged@gmail.com">umeshagrahari87@gmail.com</a>li>
+  <li>Email Id- <a href="mailto: thecodebugged@gmail.com">umeshagrahari87@gmail.com</a>
    <li>Mobile Number- 9451075292</li> </li>
   <ul>
    

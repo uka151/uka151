@@ -1,4 +1,4 @@
-<h1>Hey, I am <a href="https://www.linkedin.com/in/uka151/">Umesh Agrahari</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10%"></h1>
+<h1>Hey, I am <a href="https://www.linkedin.com/in/uka151/">Umesh Agrahari</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></h1>
         <a href="https://github.com/uka151/">
             <img src="https://komarev.com/ghpvc/?username=uka151">
         </a>

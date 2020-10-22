@@ -20,6 +20,23 @@
       <li>BCA: <a href="http://www.ignou.ac.in/">IGNOU</a>, Lucknow</a></li>
     </ul>
     </details>
+     <details>
+        <summary>Area of Intrest & Skills</summary>
+        <h4> Area Of Intrest</h4>
+        <ul>
+        <li>Machine Learning</li>
+        <li>Web Development</li>
+         <li>Data Structures & Algorithms</li>
+        </ul>
+        </br>
+        <h4>Skills</h4>
+        <ul>
+          <li>Programming- C, Core Java, Python</li>
+          <li>DataBase- MySQL</li>
+          <li>Platform- Linux(Ubuntu), Windows</li>
+          <li>Web Technology- HTML, CSS, React JS, JavaScript</li>
+        </ul>
+      </details>
     <details>
         <summary>My Work and Projects 🤖</summary>
         <ul>

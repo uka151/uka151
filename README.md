@@ -13,13 +13,12 @@
 <a href="https://www.instagram.com/umesh_agrhari/?hl=en"><img src="logo/instagram.png" width="40" /></a>
 <br>
 
-<details>
-    <summary>Education 📚</summary>
+
+    <h1>Education 📚</h1>
     <ul>
-      <li>MCA (Pursuing): <a href="http://mmmut.ac.in/">Madan Mohan Malaviya University of Technology</a></li>
+      <li>MCA: <a href="http://mmmut.ac.in/">Madan Mohan Malaviya University of Technology</a></li>
       <li>BCA: <a href="http://www.ignou.ac.in/">IGNOU</a>, Lucknow</a></li>
     </ul>
-    </details>
     
  <h1>Coding Profile</h1>
  <a href="https://www.hackerrank.com/umeshagrahari87"><img src="logo/hackerrank.jpeg" width="40"></a>

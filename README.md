@@ -11,15 +11,7 @@
 <a href="mailto:umeshagrahari87@gmail.com"><img src="logo/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/AgrahariUmesh"><img src="logo/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/umesh_agrhari/?hl=en"><img src="logo/instagram.png" width="40" /></a>
-<br>
-
-
-    <h1>Education 📚</h1>
-    <ul>
-      <li>MCA: <a href="http://mmmut.ac.in/">Madan Mohan Malaviya University of Technology</a></li>
-      <li>BCA: <a href="http://www.ignou.ac.in/">IGNOU</a>, Lucknow</a></li>
-    </ul>
-    
+<br> 
  <h1>Coding Profile</h1>
  <a href="https://www.hackerrank.com/umeshagrahari87"><img src="logo/hackerrank.jpeg" width="40"></a>
  <a href="https://leetcode.com/uka151/"><img src="logo/leetcode.png" width="40"></a>

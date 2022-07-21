@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/uka151/"><img src="logo/linkedin.png" width="40" /></a>
 <a href="https://github.com/uka151"><img src="logo/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/umesh.agrahari.1"><img src="logo/facebook.png" width="40" /></a>
-<a href="mailto:umeshagrahari87@gmail.com"><img src="logo/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/AgrahariUmesh"><img src="logo/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/umesh_agrhari/?hl=en"><img src="logo/instagram.png" width="40" /></a>
 <br> 

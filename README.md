@@ -1,8 +1,6 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/uka151/">Umesh Agrahari</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></h1>
-        
         <br>
-        <span>
-                 I am a results-driven web application designer and developer with over 3 years of hands-on experience, in a startup environment specializing in building innovative SaaS products for Customer Experience (CX) platforms.  My journey in the tech industry has been marked by a passion for translating complex business requirements into elegant technical solutions.
+        <span > I am a results-driven web application designer and developer with over 3 years of hands-on experience, in a startup environment specializing in building innovative SaaS products for Customer Experience (CX) platforms.  My journey in the tech industry has been marked by a passion for translating complex business requirements into elegant technical solutions.
 
 <b>Technical Expertise:</b><br>
 <b>Programming Languages:</b> Proficient in Core Java, JavaScript, and Data Structures and algorithms.

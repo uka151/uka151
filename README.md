@@ -1,15 +1,13 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/uka151/">Umesh Agrahari</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></h1>
-        <a href="https://github.com/uka151/">
-            <img src="https://komarev.com/ghpvc/?username=uka151">
-        </a>
+        
         <br>
         <span>
-     I am a results-driven web application designer and developer with over 3 years of hands-on experience, in a startup environment specializing in building innovative SaaS products for Customer Experience (CX) platforms.  My journey in the tech industry has been marked by a passion for translating complex business requirements into elegant technical solutions.
+                 I am a results-driven web application designer and developer with over 3 years of hands-on experience, in a startup environment specializing in building innovative SaaS products for Customer Experience (CX) platforms.  My journey in the tech industry has been marked by a passion for translating complex business requirements into elegant technical solutions.
 
-<b>Technical Expertise:</b>
-Programming Languages: Proficient in Core Java, JavaScript, and Data Structures and algorithms.
-Front-end Technologies: Skilled in HTML, CSS, JavaScript, ReactJS, Bootstrap, Material UI, Redux, and Hooks.
-Back-end Technologies: Experienced in Node.js, Express.js, MySQL, and MongoDB
+<b>Technical Expertise:</b><br>
+<b>Programming Languages:</b> Proficient in Core Java, JavaScript, and Data Structures and algorithms.
+<br><b>Front-end Technologies:</b> Skilled in HTML, CSS, JavaScript, ReactJS, Bootstrap, Material UI, Redux, and Hooks.
+<br><b>Back-end Technologies:</b> Experienced in Node.js, Express.js, MySQL, and MongoDB
 
 I hold a Master's Degree in Computer Applications from Madan Mohan Malaviya University of Technology, Gorakhpur
 
@@ -20,6 +18,9 @@ Beyond my technical expertise, I excel in client-facing roles, where I've succes
 I am eager to connect with professionals who share my passion for web development and innovation. Let's explore opportunities, exchange ideas, and collaborate on exciting projects that drive business growth and enhance the digital landscape.
         </span>
         <br>
+        <a href="https://github.com/uka151/">
+            <img src="https://komarev.com/ghpvc/?username=uka151">
+        </a>
         <h1>Connect with me 🤝🏻</h1>
         <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/uka151/"><img src="logo/linkedin.png" width="40" /></a>
